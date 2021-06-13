@@ -12,7 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Tutorial
 
-* [tutorial](tutorial)  [start](https://makecode.microbit.org/#tutorial:github:advaithrpatel/dance-tutorial/tutorial)
+* [tutorial](https://advaithrpatel.github.io/dance-tutorial/)  [start](https://makecode.microbit.org/#tutorial:github:advaithrpatel/dance-tutorial/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/advaithrpatel/dance-tutorial/workflows/MakeCode/badge.svg)
 
