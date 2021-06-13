@@ -9,8 +9,10 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/advaithrpatel/dance-tutorial** and import
-## Tutorials
+
+## Tutorial
 * [tutorial](/tutorial)
+
 ## Edit this project ![Build status badge](https://github.com/advaithrpatel/dance-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
